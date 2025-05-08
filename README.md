@@ -58,11 +58,4 @@ This project demonstrates a computer vision pipeline to detect road lane lines i
 
 ![Example Output](output_example.jpg)
 
----
 
-## 🗂️ How to Run the Project
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/lane-lines-detection.git
-   cd lane-lines-detection
